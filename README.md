@@ -14,8 +14,13 @@ Availability: The system's transaction reports can be retried as and where neces
 
 Maintenance Cost: Reduce maintenance costs.
  
-Modules: The restaurant management system will have the following modules integrated to meet the standard requirements. All the modules will comprise of their respected functionalities keeping in regards their accessibility factor in terms of security.
+Modules: The restaurant management system will have the following modules integrated to meet the standard requirements. 
+All the modules will comprise of their respected functionalities keeping in regards their accessibility factor in terms of security.
+
 •	User Module
+
 •	Inventory Module
+
 •	Transaction Module
+
 •	Accounts and Sales Module
