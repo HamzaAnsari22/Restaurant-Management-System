@@ -1,0 +1,112 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.Data.SqlClient;
+
+namespace PizzaPoint
+{
+    public partial class Order : Form
+    {
+
+        public Order()
+        {
+            InitializeComponent();
+            fillGrid();
+            dgv_CashierRegister();
+        }
+
+        private void btnMinimize_Click(object sender, EventArgs e)
+        {
+            WindowState = FormWindowState.Minimized;
+        }
+
+        private void btnClose_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            CashierRegisters cr = new CashierRegisters();
+            cr.Show();
+        }
+
+        public void fillGrid()
+        {
+            SqlConnection con = new SqlConnection(@"Data Source=LORD-VEGETA;Initial Catalog=PizzaPoint;Integrated Security=True");
+            con.Open();
+            SqlCommand command;
+            SqlDataAdapter da;
+            string selectQuery = "select OrderID,CustID,OrderType,OrderCategory,Ordertime,OrderDate from Orders order by OrderID DESC";
+            command = new SqlCommand(selectQuery, con);
+            da = new SqlDataAdapter(command);
+            DataTable dt = new DataTable();
+            dgv1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+            dgv1.AllowUserToAddRows = false;
+            da.Fill(dt);
+            dgv1.DataSource = dt;
+            con.Close();
+        }
+
+        public void dgv_CashierRegister()
+        {
+            dgv1.RowHeadersWidthSizeMode = DataGridViewRowHeadersWidthSizeMode.DisableResizing;
+
+            Padding newPadding = new Padding(10, 8, 0, 8);
+            this.dgv1.ColumnHeadersDefaultCellStyle.Padding = newPadding;
+
+            this.dgv1.GridColor = Color.Maroon;
+
+            dgv1.ColumnHeadersDefaultCellStyle.BackColor = Color.Maroon;
+            dgv1.ColumnHeadersDefaultCellStyle.ForeColor = Color.White;
+            dgv1.ColumnHeadersDefaultCellStyle.Font = new Font("Arial", 10F, FontStyle.Regular);
+
+            dgv1.EnableHeadersVisualStyles = false;
+            dgv1.DefaultCellStyle.Padding = new Padding(8, 1, 0, 1);
+            dgv1.RowTemplate.Height = 30;
+
+            this.dgv1.RowHeadersBorderStyle = DataGridViewHeaderBorderStyle.Single;
+            this.dgv1.ColumnHeadersBorderStyle = DataGridViewHeaderBorderStyle.Single;
+            this.dgv1.CellBorderStyle = DataGridViewCellBorderStyle.RaisedVertical;
+
+
+            this.dgv1.RowHeadersDefaultCellStyle.ForeColor = Color.White;
+            this.dgv1.RowHeadersDefaultCellStyle.BackColor = Color.Black;
+
+            dgv1.RowsDefaultCellStyle.Font = new Font("Arial", 9.5F, FontStyle.Regular);
+            dgv1.RowsDefaultCellStyle.ForeColor = Color.White;
+            dgv1.AlternatingRowsDefaultCellStyle.ForeColor = Color.White;
+            dgv1.RowsDefaultCellStyle.BackColor = Color.Black;
+            dgv1.AlternatingRowsDefaultCellStyle.BackColor = Color.Maroon;
+            
+        }
+
+        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void dgv1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void tableLayoutPanel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void Order_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Order_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            CashierRegisters cr = new CashierRegisters();
+            cr.Show();
+        }
+    }
+}

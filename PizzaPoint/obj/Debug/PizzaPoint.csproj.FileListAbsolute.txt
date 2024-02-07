@@ -1,0 +1,407 @@
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\obj\Debug\PizzaPoint.csprojAssemblyReference.cache
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\obj\Debug\PizzaPoint.Bill2.resources
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\obj\Debug\PizzaPoint.BillForm.resources
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\obj\Debug\PizzaPoint.BillPrint.resources
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\obj\Debug\PizzaPoint.CashierRegisters.resources
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\obj\Debug\PizzaPoint.Login.resources
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\obj\Debug\PizzaPoint.ManageProducts.resources
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\obj\Debug\PizzaPoint.Order.resources
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\obj\Debug\PizzaPoint.Prices.resources
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\obj\Debug\PizzaPoint.Product.resources
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\obj\Debug\PizzaPoint.Sales.resources
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\obj\Debug\PizzaPoint.SplashScreen.resources
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\obj\Debug\PizzaPoint.Properties.Resources.resources
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\obj\Debug\PizzaPoint.Users.resources
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\obj\Debug\PizzaPoint.csproj.GenerateResource.cache
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\PizzaPoint.exe.config
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\PizzaPoint.exe
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\PizzaPoint.pdb
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\Dapper.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\Dapper.Extension.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\EntityFramework.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\log4net.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\Dapper.pdb
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\Dapper.xml
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\EntityFramework.xml
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\log4net.xml
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\cs\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\da\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\de\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\en\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\fi\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\fr\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\hu\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\it\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\ja\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\ko\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\nb-NO\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\nl\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\pl\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\pt\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\ru\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\sk\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\sv\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\th\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\tr\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\obj\Debug\PizzaPoint.csproj.CopyComplete
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\obj\Debug\PizzaPoint.exe
+C:\Users\ansar\Downloads\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\obj\Debug\PizzaPoint.pdb
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\PizzaPoint.exe.config
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\PizzaPoint.exe
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\PizzaPoint.pdb
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\Dapper.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\Dapper.Extension.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\EntityFramework.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\FlashControlV71.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\log4net.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\Dapper.pdb
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\Dapper.xml
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\EntityFramework.xml
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\log4net.xml
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\cs\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\da\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\de\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\en\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\fi\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\fr\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\hu\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\it\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\ja\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\ko\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\nb-NO\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\nl\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\pl\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\pt\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\ru\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\sk\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\sv\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\th\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\tr\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\obj\Debug\PizzaPoint.csprojAssemblyReference.cache
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\obj\Debug\PizzaPoint.Bill2.resources
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\obj\Debug\PizzaPoint.BillForm.resources
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\obj\Debug\PizzaPoint.BillPrint.resources
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\obj\Debug\PizzaPoint.CashierRegisters.resources
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\obj\Debug\PizzaPoint.Login.resources
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\obj\Debug\PizzaPoint.ManageProducts.resources
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\obj\Debug\PizzaPoint.Order.resources
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\obj\Debug\PizzaPoint.Prices.resources
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\obj\Debug\PizzaPoint.Product.resources
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\obj\Debug\PizzaPoint.Sales.resources
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\obj\Debug\PizzaPoint.SplashScreen.resources
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\obj\Debug\PizzaPoint.Properties.Resources.resources
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\obj\Debug\PizzaPoint.Users.resources
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\obj\Debug\PizzaPoint.csproj.GenerateResource.cache
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\obj\Debug\PizzaPoint.csproj.CopyComplete
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\obj\Debug\PizzaPoint.exe
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint_RestaurentManagementSystem-master\PizzaPoint\obj\Debug\PizzaPoint.pdb
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\PizzaPoint.exe.config
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\PizzaPoint.exe
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\PizzaPoint.pdb
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\Dapper.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\Dapper.Extension.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\EntityFramework.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\FlashControlV71.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\log4net.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\Dapper.pdb
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\Dapper.xml
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\EntityFramework.xml
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\log4net.xml
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\cs\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\da\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\de\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\en\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\fi\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\fr\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\hu\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\it\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\ja\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\ko\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\nb-NO\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\nl\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\pl\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\pt\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\ru\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\sk\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\sv\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\th\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\tr\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\obj\Debug\PizzaPoint.csprojAssemblyReference.cache
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\obj\Debug\PizzaPoint.BillForm.resources
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\obj\Debug\PizzaPoint.CashierRegisters.resources
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\obj\Debug\PizzaPoint.Login.resources
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\obj\Debug\PizzaPoint.ManageProducts.resources
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\obj\Debug\PizzaPoint.Order.resources
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\obj\Debug\PizzaPoint.Prices.resources
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\obj\Debug\PizzaPoint.Product.resources
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\obj\Debug\PizzaPoint.Sales.resources
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\obj\Debug\PizzaPoint.SplashScreen.resources
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\obj\Debug\PizzaPoint.Properties.Resources.resources
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\obj\Debug\PizzaPoint.Users.resources
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\obj\Debug\PizzaPoint.csproj.GenerateResource.cache
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\obj\Debug\PizzaPoint.csproj.CopyComplete
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\obj\Debug\PizzaPoint.exe
+C:\Users\ansar\Desktop\Vp Project\PizzaPoint\PizzaPoint\obj\Debug\PizzaPoint.pdb
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\PizzaPoint.exe.config
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\PizzaPoint.exe
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\PizzaPoint.pdb
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\CrystalDecisions.Shared.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\Dapper.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\Dapper.Extension.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\EntityFramework.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\EntityFramework.SqlServer.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\FlashControlV71.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\log4net.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\Dapper.pdb
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\Dapper.xml
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\EntityFramework.xml
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\EntityFramework.SqlServer.xml
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\log4net.xml
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\cs\CrystalDecisions.ReportSource.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\da\CrystalDecisions.ReportSource.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\de\CrystalDecisions.ReportSource.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\en\CrystalDecisions.ReportSource.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\fi\CrystalDecisions.ReportSource.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\fr\CrystalDecisions.ReportSource.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\hu\CrystalDecisions.ReportSource.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\it\CrystalDecisions.ReportSource.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\ja\CrystalDecisions.ReportSource.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\ko\CrystalDecisions.ReportSource.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\nb-NO\CrystalDecisions.ReportSource.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\nl\CrystalDecisions.ReportSource.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\pl\CrystalDecisions.ReportSource.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\pt\CrystalDecisions.ReportSource.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\ru\CrystalDecisions.ReportSource.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\sk\CrystalDecisions.ReportSource.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\sv\CrystalDecisions.ReportSource.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\th\CrystalDecisions.ReportSource.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\tr\CrystalDecisions.ReportSource.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\obj\Debug\PizzaPoint.csprojAssemblyReference.cache
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\obj\Debug\PizzaPoint.BillForm.resources
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\obj\Debug\PizzaPoint.CashierRegisters.resources
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\obj\Debug\PizzaPoint.Login.resources
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\obj\Debug\PizzaPoint.ManageProducts.resources
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\obj\Debug\PizzaPoint.Order.resources
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\obj\Debug\PizzaPoint.Prices.resources
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\obj\Debug\PizzaPoint.Product.resources
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\obj\Debug\PizzaPoint.Sales.resources
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\obj\Debug\PizzaPoint.SplashScreen.resources
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\obj\Debug\PizzaPoint.Properties.Resources.resources
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\obj\Debug\PizzaPoint.Users.resources
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\obj\Debug\PizzaPoint.csproj.GenerateResource.cache
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\obj\Debug\PizzaPoint.csproj.CopyComplete
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\obj\Debug\PizzaPoint.exe
+G:\Semester 5\Visual Programming Lab\Project\Done Project\PizzaPoint\PizzaPoint\obj\Debug\PizzaPoint.pdb
